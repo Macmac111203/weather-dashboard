@@ -39,7 +39,7 @@ const API_KEY = "YOUR_API_KEY_HERE";
 
 ## 📸 Screenshot
 Here’s a preview of the Weather Dashboard in action:
-![alt text](image.png)
+![alt text](image0.png)
 ![alt text](image1.png)
 
 ## 🧠 Future Improvements
